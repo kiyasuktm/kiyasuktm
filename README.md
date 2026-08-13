@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="[Your Play Store Developer Page URL]"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=00C853" /></a>
-  <a href="[Your App Store Developer Page URL]"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="[Onit Play Store link]"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=00C853" /></a>
+  <a href="[Onit App Store link]"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
   <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:[your.real.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,11 +18,12 @@
 
 - 🔭 I've independently built and shipped **15+ Flutter apps**, live on **Play Store & App Store**
 - 🧩 I own the **entire app lifecycle** — UI, API integration, payments, auth, release — with no dedicated designer or tester
-- 🤖 I integrate **AI features** (Groq API) for audio summarization and auto-generated content
+- 🤖 I integrate **AI features** (Groq, Gemini API) for audio summarization and auto-generated content
 - 💳 I've implemented **Razorpay payments** — order creation, webhooks, failure/retry handling
 - 🔥 I work daily with **Firebase** — FCM push notifications, Auth, Firestore
 - 🛠️ I can also spin up lightweight backend APIs myself using **FastAPI**, deployed on Render/Supabase
 - 📱 Comfortable on **both Android and iOS**, from a single Flutter codebase
+- 🌐 Build **multi-language apps** (English, Tamil, Hindi) with in-app language switching for regional user bases
 
 ---
 
@@ -41,6 +42,11 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GetX-673AB7?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Localization%20(i18n)-6E56CF?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -50,29 +56,51 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>📌 [Zaron]</h4>
-      <p>[The Zaron business-to-business (B2B) app, designed for roofing and steel dealers.]</p>
-      <a href="[Play Store link]">▶️ Play Store</a> · <a href="[App Store link]">🍎 App Store</a> · <a href="[GitHub repo link]">💻 Code</a>
+      <h4>📌 Zaron</h4>
+      <p>A B2B ordering app for roofing and steel dealers — browse catalogs, place bulk orders, and track order status, replacing manual phone/paper ordering.</p>
+      <a href="[Zaron Play Store link]">▶️ Play Store</a>
     </td>
     <td width="50%">
-      <h4>📌 [Onit]</h4>
-      <p>[One-line description — what it does, who it's for]</p>
-      <a href="[Play Store link]">▶️ Play Store</a> · <a href="[App Store link]">🍎 App Store</a> · <a href="[GitHub repo link]">💻 Code</a>
+      <h4>📌 Onit</h4>
+      <p>A task management app where users assign tasks to each other, get instant updates via FCM, and pay for premium features through Razorpay — with AI-generated task summaries and descriptions.</p>
+      <a href="[Onit Play Store link]">▶️ Play Store</a> · <a href="[Onit App Store link]">🍎 App Store</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>📌 [Attendance]</h4>
-      <p>[One-line description — what it does, who it's for]</p>
-      <a href="[Play Store link]">▶️ Play Store</a> · <a href="[App Store link]">🍎 App Store</a> · <a href="[GitHub repo link]">💻 Code</a>
+      <h4>📌 [Job Portal App Name]</h4>
+      <p>A LinkedIn/Indeed-style job platform supporting English, Tamil, and Hindi with an in-app language switcher. Two consent-based flows — Employee login for job seekers to search and apply, Company login for employers to find talent — plus an approach/connect system so employers and candidates can message each other directly.</p>
+      <em>In development — not yet published</em>
     </td>
     <td width="50%">
-      <h4>📌 [Split-App]</h4>
-      <p>[One-line description — what it does, who it's for]</p>
-      <a href="[Play Store link]">▶️ Play Store</a> · <a href="[App Store link]">🍎 App Store</a> · <a href="[GitHub repo link]">💻 Code</a>
+      <h4>📌 Attendance</h4>
+      <p>A face-recognition attendance system using Google ML Kit — employees mark attendance via face scan, plus leave requests, attendance correction requests, and shift permission workflows.</p>
+      <em>Internal company app — not publicly listed</em>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h4>📌 Split-App</h4>
+      <p>A Splitwise-style bill-splitting app — create a group, pick a currency, and split shared expenses so everyone can see who owes what.</p>
+      <em>Internal company app — not publicly listed</em>
+    </td>
+    <td width="50%">
+      <h4>📌 Frozen Order</h4>
+      <p>A B2B ordering app for frozen food brands — browse brands, explore each brand's product catalog, and order through a cart flow. Full order history tracking (editable pre-approval, locked once completed) with invoice image and PDF access.</p>
+      <em>Internal company app — not publicly listed</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📌 Production</h4>
+      <p>A role-based production tracking app with four dedicated flows — admin, production, cutting, and accessories entry — each showing step-by-step process updates, with FCM notifying teams as items move through the pipeline.</p>
+      <em>Internal company app — not publicly listed</em>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
+
+> 💡 Several of these were built as part of my current role, so the codebases live in private company repos. I have collaborator access with full push/pull rights, but I'm intentionally not linking them here — worth checking with your employer before publicly linking a company repo, even one you can technically access, since the code itself may still be confidential.
 
 ---
 
@@ -93,7 +121,7 @@
 
 <p align="center">
   <a href="[Your LinkedIn URL]">LinkedIn</a> •
-  <a href="mailto:[your.email@example.com]">Email</a> •
-  <a href="[Your Play Store Developer Page URL]">Play Store</a> •
-  <a href="[Your App Store Developer Page URL]">App Store</a>
+  <a href="mailto:[your.real.email@example.com]">Email</a> •
+  <a href="[Onit Play Store link]">Play Store</a> •
+  <a href="[Onit App Store link]">App Store</a>
 </p>
