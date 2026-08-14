@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[Onit Play Store link]"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=00C853" /></a>
-  <a href="[Onit App Store link]"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your.real.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-34E4C1?style=for-the-badge&logo=vercel&logoColor=04211C" /></a>
 </p>
 
 ---
@@ -18,12 +15,12 @@
 
 - 🔭 I've independently built and shipped **15+ Flutter apps**, live on **Play Store & App Store**
 - 🧩 I own the **entire app lifecycle** — UI, API integration, payments, auth, release — with no dedicated designer or tester
-- 🤖 I integrate **AI features** (Groq, Gemini API) for audio summarization and auto-generated content
+- 🤖 I integrate **AI features** (Groq API, Gemini API) for audio summarization and auto-generated content
 - 💳 I've implemented **Razorpay payments** — order creation, webhooks, failure/retry handling
 - 🔥 I work daily with **Firebase** — FCM push notifications, Auth, Firestore
 - 🛠️ I can also spin up lightweight backend APIs myself using **FastAPI**, deployed on Render/Supabase
 - 📱 Comfortable on **both Android and iOS**, from a single Flutter codebase
-- 🌐 Build **multi-language apps** (English, Tamil, Hindi) with in-app language switching for regional user bases
+- 🌐 Build **multi-language apps** (English, Tamil, Hindi) with in-app language switching
 
 ---
 
@@ -34,6 +31,8 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -44,9 +43,6 @@
   <img src="https://img.shields.io/badge/GetX-673AB7?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Localization%20(i18n)-6E56CF?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -58,18 +54,18 @@
     <td width="50%">
       <h4>📌 Zaron</h4>
       <p>A B2B ordering app for roofing and steel dealers — browse catalogs, place bulk orders, and track order status, replacing manual phone/paper ordering.</p>
-      <a href="[Zaron Play Store link]">▶️ Play Store</a>
+      <a href="https://play.google.com/store/apps/details?id=com.zaron.apps">▶️ Play Store</a>
     </td>
     <td width="50%">
       <h4>📌 Onit</h4>
       <p>A task management app where users assign tasks to each other, get instant updates via FCM, and pay for premium features through Razorpay — with AI-generated task summaries and descriptions.</p>
-      <a href="[Onit Play Store link]">▶️ Play Store</a> · <a href="[Onit App Store link]">🍎 App Store</a>
+      <a href="https://play.google.com/store/apps/details?id=com.regent_todo_app">▶️ Play Store</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>📌 [Job Portal App Name]</h4>
-      <p>A LinkedIn/Indeed-style job platform supporting English, Tamil, and Hindi with an in-app language switcher. Two consent-based flows — Employee login for job seekers to search and apply, Company login for employers to find talent — plus an approach/connect system so employers and candidates can message each other directly.</p>
+      <h4>📌 Job Portal App</h4>
+      <p>A LinkedIn/Indeed-style job platform supporting English, Tamil, and Hindi with an in-app language switcher. Two consent-based flows — Employee login for job seekers, Company login for employers to find talent — plus an approach/connect system for direct messaging.</p>
       <em>In development — not yet published</em>
     </td>
     <td width="50%">
@@ -100,7 +96,7 @@
   </tr>
 </table>
 
-> 💡 Several of these were built as part of my current role, so the codebases live in private company repos. I have collaborator access with full push/pull rights, but I'm intentionally not linking them here — worth checking with your employer before publicly linking a company repo, even one you can technically access, since the code itself may still be confidential.
+> 💡 See my [portfolio](https://kiyasutheen-portfolio.vercel.app) for a visual walkthrough of every project above.
 
 ---
 
@@ -120,8 +116,5 @@
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="[Your LinkedIn URL]">LinkedIn</a> •
-  <a href="mailto:[your.real.email@example.com]">Email</a> •
-  <a href="[Onit Play Store link]">Play Store</a> •
-  <a href="[Onit App Store link]">App Store</a>
+  <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-34E4C1?style=for-the-badge&logo=vercel&logoColor=04211C" /></a>
 </p>
