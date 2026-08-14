@@ -102,6 +102,8 @@
 
 > 💡 See my [portfolio](https://kiyasutheen-portfolio.vercel.app) for a visual walkthrough of every project above.
 
+> 🔒 **Code availability:** Several of these were built as part of my current role, so the codebases live in private company repos. I have collaborator access with full push/pull rights, but I'm intentionally not linking them here — the code itself may still be confidential, even for someone with technical access to it.
+
 ---
 
 ### 📊 GitHub Stats
@@ -133,6 +135,7 @@
   <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-kiyasutheen--portfolio.vercel.app-34E4C1?style=for-the-badge" /></a><br/>
   <a href="https://www.linkedin.com/in/kiyasu-theen-3310bb293"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kiyasutheen3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kiyasutheen3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+919344594616"><img src="https://img.shields.io/badge/PHONE-%2B91%2093445%2094616-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FB2,100:2DBE8C&height=120&section=footer" width="100%"/>
