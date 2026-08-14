@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kiyasutheen</h1>
-<h3 align="center">Flutter Developer — I build & ship mobile apps end-to-end, solo, from API to App Store</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8FF&center=true&vCenter=true&width=600&lines=15%2B+Flutter+apps+shipped+solo;Android+%2B+iOS+%2C+end-to-end;Razorpay+%7C+Firebase+%7C+Groq+AI+integration;No+designer%2C+no+tester%2C+just+me" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DBE8C,100:1F6FB2&height=210&section=header&text=Kiyasutheen&fontSize=52&fontColor=ffffff&desc=Flutter%20Developer%20%C2%B7%20Android%20%26%20iOS&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-34E4C1?style=for-the-badge&logo=vercel&logoColor=04211C" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA8FF&center=true&vCenter=true&width=600&lines=15%2B+Flutter+apps+shipped+solo;Android+%2B+iOS+%2C+end-to-end;Razorpay+%7C+Firebase+%7C+Groq+AI+integration;No+designer%2C+no+tester%2C+just+me" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-kiyasutheen--portfolio.vercel.app-34E4C1?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/kiyasu-theen-3310bb293"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kiyasuktm"><img src="https://img.shields.io/badge/GITHUB-kiyasuktm-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:kiyasutheen3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kiyasutheen3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -103,18 +107,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiyasuktm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyasuktm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyasuktm&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyasuktm&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=kiyasuktm&style=for-the-badge&color=34E4C1&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/kiyasuktm?style=for-the-badge&logo=github&color=34E4C1&labelColor=181717" />
 </p>
+
+<!-- The full stats + top-languages cards below rely on a shared free service that -->
+<!-- frequently rate-limits (this is a known, widely-reported issue, not specific to -->
+<!-- this profile). Uncomment once you've self-hosted your own instance for reliability. -->
+<!--
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiyasuktm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyasuktm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+-->
 
 ---
 
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-34E4C1?style=for-the-badge&logo=vercel&logoColor=04211C" /></a>
+  <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-kiyasutheen--portfolio.vercel.app-34E4C1?style=for-the-badge" /></a><br/>
+  <a href="https://www.linkedin.com/in/kiyasu-theen-3310bb293"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kiyasutheen3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kiyasutheen3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FB2,100:2DBE8C&height=120&section=footer" width="100%"/>
