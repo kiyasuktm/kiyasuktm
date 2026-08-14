@@ -112,10 +112,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyasuktm&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiyasuktm&style=for-the-badge&color=34E4C1&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/kiyasuktm?style=for-the-badge&logo=github&color=34E4C1&labelColor=181717" />
-</p>
+</p> -->
 
 <!-- The full stats + top-languages cards below rely on a shared free service that -->
 <!-- frequently rate-limits (this is a known, widely-reported issue, not specific to -->
@@ -135,7 +135,6 @@
   <a href="https://kiyasutheen-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-kiyasutheen--portfolio.vercel.app-34E4C1?style=for-the-badge" /></a><br/>
   <a href="https://www.linkedin.com/in/kiyasu-theen-3310bb293"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kiyasutheen3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kiyasutheen3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+919344594616"><img src="https://img.shields.io/badge/PHONE-%2B91%2093445%2094616-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FB2,100:2DBE8C&height=120&section=footer" width="100%"/>
